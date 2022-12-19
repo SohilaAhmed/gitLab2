@@ -3,7 +3,6 @@
 int main(int argc, char *argv[])
 {
 	printf("Hello ITI \n");
-
-	printf("Hello git \n");
+	printf("from main2");
 	return 0;
 }
